@@ -1,2 +1,2 @@
-# observatorio
-Sitio web del observatorio astronómico Prof. Alexis Troche Boggino de la Facultad Politécnica de la UNA
+# Hello Humans
+I'm starting on this interesting world of developers and I'm loving it :v
